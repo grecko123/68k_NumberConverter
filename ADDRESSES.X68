@@ -1,0 +1,16 @@
+*--------------
+*Predefined memory locations for seven segment display
+*used as lookup include
+*-----
+SVNSEG0 EQU $E00000
+SVNSEG1 EQU $E00002
+SVNSEG2 EQU $E00004
+SVNSEG3 EQU $E00006
+SVNSEG4 EQU $E00008
+SVNSEG5 EQU $E0000A
+SVNSEG6 EQU $E0000C
+SVNSEG7 EQU $E0000E
+LED     EQU $E00010
+TOGSW   EQU $E00012
+PUSHBTN EQU $E00014
+    
