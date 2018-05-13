@@ -4,7 +4,7 @@
 *-----------------------------------------------------------
 * Program    : Number Conversion 
 * Written by : Brian Grech 
-* Date       :
+* Date       : May 13, 2018
 * Description: Converts Decimal and Displays on hardware output sevn seg. display.
 
 Upon initation, utlize the simulated hardware toggle switch to select the conversion output(decimal, hex, and octal) 
